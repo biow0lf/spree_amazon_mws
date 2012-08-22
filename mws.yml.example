@@ -1,0 +1,15 @@
+development:
+  mws:
+    merchant_id: 1234567890ABCD
+    aws_access_key_id: ABCDEFGHIJABCDEFGHIJ
+    secret_key: 1234567890123456789012345678901234567890
+test:
+  mws:
+    merchant_id: 1234567890ABCD
+    aws_access_key_id: ABCDEFGHIJABCDEFGHIJ
+    secret_key: 1234567890123456789012345678901234567890
+production:
+  mws:
+    merchant_id: 1234567890ABCD
+    aws_access_key_id: ABCDEFGHIJABCDEFGHIJ
+    secret_key: 1234567890123456789012345678901234567890
